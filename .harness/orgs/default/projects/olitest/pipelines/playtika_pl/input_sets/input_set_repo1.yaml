@@ -8,7 +8,7 @@ inputSet:
     variables:
       - name: java_version
         type: String
-        value: "21"
+        value: "18"
       - name: Note
         type: String
         value: repo1 / main
