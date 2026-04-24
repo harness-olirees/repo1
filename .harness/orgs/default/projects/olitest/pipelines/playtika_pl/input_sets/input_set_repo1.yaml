@@ -12,4 +12,4 @@ inputSet:
         value: "16"
       - name: Note
         type: String
-        value: repo1 / main - testing 123
+        value: repo1 / feature1
