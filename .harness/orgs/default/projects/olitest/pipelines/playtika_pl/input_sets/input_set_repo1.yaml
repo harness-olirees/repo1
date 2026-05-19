@@ -13,3 +13,6 @@ inputSet:
       - name: Note
         type: String
         value: repo1 / feature1
+      - name: extra
+        type: String
+        value: extra_override
